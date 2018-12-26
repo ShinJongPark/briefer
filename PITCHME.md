@@ -3,7 +3,8 @@
 안녕하세요, 반갑습니다.
 ---
 # 슬라이드 2
-<img src="/img/assets/sjpark/test.jpg" width="100" height="100">
+<img src="/assets/sjpark/test.jpg" width="500" height="300">
+
 안녕하세요, 제이름은 박신종 입니다
 
 조용조용한 제 할일 하는 성격이에요. 
