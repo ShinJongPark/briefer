@@ -21,7 +21,6 @@
 
 연말계획 스키장 가고 싶음 
 12월 31일 - 집에서 빈둥대다가 밤에 치킨먹으면서 새해 맞이
----
 
 ---?image=assets/hansangwoo/real-profile-background.jpg
 
