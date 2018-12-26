@@ -1,6 +1,7 @@
 ---
 # 슬라이드 1
 안녕하세요, 반갑습니다.
+
 ---
 # 한상우
 
@@ -16,12 +17,18 @@
 @snapend
 
 @snap[east span-50]
-![](assets/hansangwoo/profile.jpg)
+<img src="assets/hansangwoo/profile.jpg" width="50%">
 @snapend
+
++++?image=assets/hansangwoo/plan.jpg
+
+# 요새 하는 일
+
+## 취업 준비
 
 +++
 
-# 연말 계획
+# 깃허브
 
-공부
-![](assets/hansangwoo/plan.jpg)
+![](assets/hansangwoo/github.jpg)
+https://github.com/tkddn204
