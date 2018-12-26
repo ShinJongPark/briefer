@@ -1,6 +1,27 @@
+---?image=assets/background.jpg
+# 브리퍼
+
+박신종, 윤현규, 한상우
+
 ---
-# 슬라이드 1
-안녕하세요, 반갑습니다.
+
+<img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
+
+안녕하세요, 제이름은 박신종 입니다.
+
+별명? 고등학교때 신종플루로 잠깐 불리었었습니다.
+
+조용조용한 제 할일 하는 성격이에요. 
+
+---
+
+@color[orange](안녕하세요 윤현규입니다.)
+별명? 딱히없음
+성격 
+
+연말계획 스키장 가고 싶음 
+12월 31일 - 집에서 빈둥대다가 밤에 치킨먹으면서 새해 맞이
+---
 
 ---?image=assets/hansangwoo/real-profile-background.jpg
 
@@ -19,9 +40,9 @@
 
 +++?image=assets/hansangwoo/2-background.jpg
 
-# 관심사
+# 연말 계획
 
-## 취업
+## 취업 준비
 
 토익, 오픽, 포트폴리오, 인적성...
 
