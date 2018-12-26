@@ -3,7 +3,7 @@
 
 박신종, 윤현규, 한상우
 
----
+---?image=assets/hansangwoo/real-profile-background.jpg
 
 
 <img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
