@@ -4,7 +4,9 @@
 ---
 # 슬라이드 2
 @snap[north-west thumbnail]
-![](assets/sjpark/test.jpg)
+
+<img src="/img/assets/sjpark/test.jpg" width="30" height="30">
+
 안녕하세요, 제이름은 박신종 입니다
 @snapend
 
