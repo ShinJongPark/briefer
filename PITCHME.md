@@ -6,7 +6,7 @@
 ---?image=assets/hansangwoo/real-profile-background.jpg
 
 
-<img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
+<img src="/assets/sjpark/shinjong.jpg" width="300" height="200">
 
 안녕하세요, 제이름은 박신종 입니다.
 
