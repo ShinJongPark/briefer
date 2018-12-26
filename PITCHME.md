@@ -6,6 +6,7 @@
 ---
 
 <img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
+<img src="/assets/sjpark/shinjong2.jpg" width="400" height="250">
 
 안녕하세요, 제이름은 박신종 입니다.
 
