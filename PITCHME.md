@@ -4,7 +4,7 @@
 
 ---?image=assets/hansangwoo/real-profile-background.jpg
 
-@snap[west span-10]
+@snap[west span-50]
 ## 한상우
 
 **별명** : **쌍**우
