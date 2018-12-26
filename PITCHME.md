@@ -2,16 +2,16 @@
 # 슬라이드 1
 안녕하세요, 반갑습니다.
 
----
+---?image=assets/hansangwoo/profile-background.jpg
 
 @snap[west span-30]
-@title[한상우]
+## 한상우
 
-## 별명
+### 별명
 
 **쌍**우
 
-## 성격
+### 성격
 
 하나에 집중하는 스타일
 @snapend
@@ -20,7 +20,7 @@
 <img src="assets/hansangwoo/profile.jpg" width="70%">
 @snapend
 
-+++?image=assets/hansangwoo/plan.jpg
++++?image=assets/hansangwoo/2-background.jpg
 
 # 관심사
 
@@ -36,5 +36,8 @@
 
 # 깃허브
 
+@title[Relative URLs]
+
 ![](assets/hansangwoo/github.jpg)
+
 https://github.com/tkddn204
