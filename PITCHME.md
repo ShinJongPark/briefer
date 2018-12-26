@@ -38,6 +38,6 @@
 
 @title[Relative URLs]
 
-<img src="assets/hansangwoo/github.png" height="50%">
+<img src="assets/hansangwoo/github.png" width="50%">
 
 https://github.com/tkddn204
