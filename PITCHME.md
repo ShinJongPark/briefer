@@ -5,19 +5,19 @@
 ---
 # 한상우
 
-@snap[west span-50]
+@snap[west span-30]
 ## 별명
 
-**쌍**우
+### **쌍**우
 
 ## 성격
 
-하나에 집중하는 스타일
+### 하나에 집중하는 스타일
 
 @snapend
 
 @snap[east span-50]
-<img src="assets/hansangwoo/profile.jpg" width="50%">
+<img src="assets/hansangwoo/profile.jpg" width="70%">
 @snapend
 
 +++?image=assets/hansangwoo/plan.jpg
