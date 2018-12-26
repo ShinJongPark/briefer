@@ -6,7 +6,7 @@
 ---?image=assets/hansangwoo/real-profile-background.jpg
 
 
-<img src="/assets/sjpark/shinjong.jpg" width="300" height="200">
+<img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
 
 안녕하세요, 제이름은 박신종 입니다.
 
@@ -16,7 +16,7 @@
 
 ---
 
-<img src="/assets/yhg/fire.jpg" width="400" height="250">
+<img src="/assets/yhg/fire.jpg" width="300" height="200">
 @color[orange](안녕하세요 윤현규입니다.)  별명? 딱히없음
 
 성격 단순함.
