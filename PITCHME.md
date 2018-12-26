@@ -7,7 +7,7 @@
 
 
 @snap[north-east thumbnail]
-<img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
+<img src="/assets/sjpark/shinjong.jpg" width="500" height="250">
 @snapend
 
 @snap[north-west thumbnail]
