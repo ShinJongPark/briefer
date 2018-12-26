@@ -3,7 +3,8 @@
 안녕하세요, 반갑습니다.
 ---
 # 슬라이드 2
-
+@snap[north-west thumbnail]
+![](assets/img/image.jpg)
 안녕하세요, 제이름은 박신종 입니다
 
 조용조용한 제 할일 하는 성격이에요. 
