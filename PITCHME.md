@@ -17,9 +17,7 @@
 ---
 
 <img src="/assets/yhg/fire.jpg" width="400" height="250">
-@color[orange](안녕하세요 윤현규입니다.)
-
-별명? 딱히없음
+@color[orange](안녕하세요 윤현규입니다.)  별명? 딱히없음
 
 성격 단순함.
 
