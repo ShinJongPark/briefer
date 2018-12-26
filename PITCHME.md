@@ -5,20 +5,20 @@
 
 ---
 
+
+@snap[north-east thumbnail]
+<img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
+@snapend
+
+@snap[north-west thumbnail]
+<img src="/assets/sjpark/shinjong2.jpg" width="400" height="250">
+@snapend
+
 안녕하세요, 제이름은 박신종 입니다.
 
 별명? 고등학교때 신종플루로 잠깐 불리었었습니다.
 
 활동적인걸 좋아하고, 제할일을 조용조용히 하는 편입니다. 
-
-@snap[west span-50]
-<img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
-@snapend
-
-@snap[east span-50]
-<img src="/assets/sjpark/shinjong2.jpg" width="400" height="250">
-@snapend
-
 
 ---
 
