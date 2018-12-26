@@ -4,9 +4,9 @@
 
 ---
 
+@snap[west span-30]
 @title[한상우]
 
-@snap[west span-30]
 ## 별명
 
 **쌍**우
