@@ -2,7 +2,7 @@
 # 슬라이드 1
 안녕하세요, 반갑습니다.
 
----?image=assets/hansangwoo/profile-background.jpg
+---
 
 @snap[west span-30]
 ## 한상우
@@ -32,12 +32,12 @@
 
 리그 오브 레전드, 스팀
 
-+++
++++?image=assets/hansangwoo/profile-background.jpg
 
 # 깃허브
 
 @title[Relative URLs]
 
-![](assets/hansangwoo/github.jpg)
+![](assets/hansangwoo/github.png)
 
 https://github.com/tkddn204
