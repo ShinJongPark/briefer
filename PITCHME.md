@@ -16,11 +16,15 @@
 
 ---
 
+<img src="/assets/yhg/fire.jpg" width="400" height="250">
 @color[orange](안녕하세요 윤현규입니다.)
+
 별명? 딱히없음
-성격 
+
+성격 단순함.
 
 연말계획 스키장 가고 싶음 
+
 12월 31일 - 집에서 빈둥대다가 밤에 치킨먹으면서 새해 맞이
 
 ---?image=assets/hansangwoo/real-profile-background.jpg
