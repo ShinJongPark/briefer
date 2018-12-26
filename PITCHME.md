@@ -2,6 +2,7 @@
 # 슬라이드 1
 안녕하세요, 반갑습니다.
 ---
+
 <img src="/assets/sjpark/shinjong.jpg" width="400" height="250">
 
 안녕하세요, 제이름은 박신종 입니다.
